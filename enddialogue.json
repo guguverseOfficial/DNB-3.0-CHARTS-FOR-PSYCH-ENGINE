@@ -1,0 +1,35 @@
+{
+	"dialogue": [
+		{
+			"expression": "exhausted",
+			"text": "Well, I think we should just do something else for now..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dave-festive"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Good idea, man..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfgone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The festival continues on for a few more hours until it ends and Dave aswell as everyone else goes home."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfgone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Inspite of this BF and GF showed up before Dave was about to return home for one final song."
+		}
+	]
+}
